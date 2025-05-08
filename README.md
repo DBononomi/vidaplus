@@ -19,3 +19,7 @@ python manage.py runserver
 
 6-No navegador, acessar o endereço
 http://127.0.0.1:8000/login/
+
+Usuário de acesso:
+Login-uninter
+Senha-Ru4427583
